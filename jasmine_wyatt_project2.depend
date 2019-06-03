@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508722807 source:c:\users\jayyc\desktop\jasmine_wyatt_project2\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+
